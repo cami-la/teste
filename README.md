@@ -59,16 +59,17 @@ São 4 os pilares principais do POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POL
 <h2 align="center"> ‼️ Conceitos fundamentais POO: ‼️ </h2>
 
 
-DOMÍNIO
+DOMÍNIO: domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
 
-CLASSE
+CLASSE: um elemento do código que tem a função de representar objetos do mundo real. Dentro dela é comum declararmos atributos e métodos, que representam, respectivamente, as características e comportamentos desse objeto.
 
-ATRIBUTO
+ATRIBUTO: 
 
-MÉTODO
+MÉTODO:
 
-OBJETO
+OBJETO:
 
+INSTÂNCIA:
 
 
 ----
